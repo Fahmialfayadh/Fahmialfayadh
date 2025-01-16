@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>I'm a passionate learner and developer with interests in:<br><br>🌌 Astronomy and Physics<br><br>🤖 Artificial Intelligence and Machine Learning<br><br>📚 Research and Fact-Checking<br><br>🧮 Mathematics and Problem Solving<br><br>Currently, I'm pursuing my education in Artificial Intelligence Engineering, with aspirations to contribute meaningfully to the tech and science world.
+About Me<br><br>I'm a passionate learner with interests in:<br><br>🌌 Astronomy and Physics<br><br>🤖 Artificial Intelligence and Machine Learning<br><br>📚 Research and Fact-Checking<br><br>🧮 Mathematics and Problem Solving<br><br>Currently, I'm pursuing my education in Artificial Intelligence Engineering, with aspirations to contribute meaningfully to the tech and science world.
 
 
 ## 🌐 Socials:
