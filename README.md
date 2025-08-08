@@ -6,7 +6,7 @@ About Me<br><br>I'm a passionate learner with interests in:<br><br>🌌 Astronom
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmialfayadh) 
 
 # 💻 What can i use:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fahmialfayadh&icon=9&color=0)](https://visitcount.itsvg.in)
