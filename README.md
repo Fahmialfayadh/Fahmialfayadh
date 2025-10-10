@@ -1,3 +1,5 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
 # 💫 About Me:
 About Me<br><br>I'm a passionate learner with interests in:<br><br>🌌 Astronomy and Physics<br><br>🤖 Artificial Intelligence and Machine Learning<br><br>📚 Research and Fact-Checking<br><br>🧮 Mathematics and Problem Solving<br><br>Currently, I'm pursuing my education in Artificial Intelligence Engineering, with aspirations to contribute meaningfully to the tech and science world.
 
@@ -11,30 +13,16 @@ About Me<br><br>I'm a passionate learner with interests in:<br><br>🌌 Astronom
 ---
 [![](https://visitcount.itsvg.in/api?id=fahmialfayadh&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:Pytorch_logo.png" height="60" alt="Pytorch"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="60" alt="Tensorflow"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
