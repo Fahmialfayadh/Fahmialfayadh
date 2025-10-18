@@ -20,8 +20,6 @@
   </a>
 </p>
 
-<br>
-<br>
 ### What can i use:
 <p align="center">
   <a href="https://skillicons.dev">
