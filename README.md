@@ -12,7 +12,7 @@
 <br>
 ## 💻 What can i use:
 <div align="center">
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow)](https://skillicons.dev)]
 </div>
 
 ---
