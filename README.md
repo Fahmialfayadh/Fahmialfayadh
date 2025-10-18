@@ -1,3 +1,4 @@
+![Header](./Assets/banner.png)
 <h1 align="center">Hey 👋I'm Fahmi</h1>
 <br>I'm a passionate learner with interests in:<br><br>🤖 Artificial Intelligence and Machine Learning<br><br>🌌 Astronomy and Physics<br><br>📚 Research and Fact-Checking<br><br>🧮 Mathematics and Problem Solving<br><br>Currently, I'm pursuing my education in Artificial Intelligence Engineering, with aspirations to contribute meaningfully to the tech and science world.
 
