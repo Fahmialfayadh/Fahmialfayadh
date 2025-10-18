@@ -11,9 +11,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmialfayadh) 
 <br>
 ## 💻 What can i use:
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn)](https://skillicons.dev)]
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
+  </a>
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fahmialfayadh&icon=9&color=0)](https://visitcount.itsvg.in)
