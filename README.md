@@ -8,7 +8,8 @@
 
 
 ### Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmialfayadh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmialfayadh)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://fahmialfayadh.vercel.app/)
 <br>
 ### What can i use:
 <p align="center">
@@ -16,8 +17,6 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
   </a>
 </p>
-
-♟️ [Play my chess game!](https://mhonert.github.io/chess/)
 
 
 ---
