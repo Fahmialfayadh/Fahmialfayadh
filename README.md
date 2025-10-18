@@ -7,10 +7,10 @@
 <br>🚀 Aim: Contribute to real-world AI innovation and scientific progress
 
 
-## 🌐 Social Media:
+### Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmialfayadh) 
 <br>
-## 💻 What can i use:
+### What can i use:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
