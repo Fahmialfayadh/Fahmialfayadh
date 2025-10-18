@@ -17,6 +17,8 @@
   </a>
 </p>
 
+♟️ [Play my chess game!](https://mhonert.github.io/chess/)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fahmialfayadh&icon=9&color=0)](https://visitcount.itsvg.in)
