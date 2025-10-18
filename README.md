@@ -8,10 +8,18 @@
 
 
 ### Social Media:
-<p align="cemter">
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fahmialfayadh)
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://fahmialfayadh.vercel.app/)
+<p align="center">
+  <a href="https://instagram.com/fahmialfayadh">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/fahmialfayadh">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://fahmialfayadh.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
+
 <br>
 <br>
 ### What can i use:
