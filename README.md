@@ -8,8 +8,11 @@
 
 
 ### Social Media:
+<p align="cemter">
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/fahmialfayadh) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fahmialfayadh)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://fahmialfayadh.vercel.app/)
+</p>
+<br>
 <br>
 ### What can i use:
 <p align="center">
