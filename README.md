@@ -1,10 +1,10 @@
 ![Header](./Assets/banner.png)
 <h1 align="center">Hey 👋I'm Fahmi</h1>
-<br>🎓 Artificial Intelligence Engineering student
+<br>🎓 Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember (INDONESIA)
 
 <br>🧠 Focused on building practical, intelligent systems
 
-<br?⚙️ Skilled in Machine Learning, Data Science, and AI Engineering
+<br>⚙️ Currently focus on Natural Language Processing and convolutional neural network (CNN)
 
 <br>🔍 Passionate about research-driven development
 
