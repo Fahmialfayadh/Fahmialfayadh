@@ -1,6 +1,6 @@
 ![Header](./Assets/banner.png)
 <h1 align="center">Little Things About Me</h1>
-<br>🎓 Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember (INDONESIA)
+<br>🎓 Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember (Indonesia)
 <br>🧠 Focused on building practical, intelligent systems
 <br>⚙️ Currently focus on Natural Language Processing and convolutional neural network (CNN)
 <br>🔍 Passionate about research-driven development
@@ -12,12 +12,7 @@
 <br>
 ## 💻 What can i use:
 <div align="center">
-  <img width="14" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="60" alt="Pytorch"  />
-  <img width="14" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="60" alt="Tensorflow"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
 ---
