@@ -4,10 +4,12 @@
 <br>🧠 Focused on building practical, intelligent systems
 <br>⚙️ Currently focus on Natural Language Processing and convolutional neural network (CNN)
 <br>🔍 Passionate about research-driven development
-<br>🚀 Aim: Contribute to real-world AI innovation and scientific progress
+<br>🚀 Aim: Contribute to real-world AI innovation and scientific progress<br>
+
 🚀 Founder & Developer of <a>
 href="https://asymptra.com">Asymptra Labs</a> — building experimental AI and data-driven solutions
 </p>
+---
 ### Social Media:
 <p align="center">
   <a href="https://instagram.com/fahmialfayadh">
