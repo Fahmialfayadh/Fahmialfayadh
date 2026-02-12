@@ -37,6 +37,26 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
   </a>
 </p>
+---
+
+### Contribution 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fahmialfayadh/fahmialfayadh/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahmialfayadh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfayadh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
