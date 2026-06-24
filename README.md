@@ -1,14 +1,14 @@
 
 ![Header](./Assets/banner.png)
 
-<h1 align="center">Little Things About Me</h1>
+<h1 align="left">Little Things About Me</h1>
 
-<p align="center">
-🎓 Artificial Intelligence Engineering Student at Institut Teknologi Sepuluh Nopember (Indonesia) <br>
-🧠 Focused on building practical and intelligent systems <br>
-⚙️ Currently specializing in Natural Language Processing and Convolutional Neural Networks (CNN) <br>
-🔬 Passionate about research-driven development and data intelligence <br>
-🚀 Founder & Developer of <a href="https://asymptra.com">Asymptra Labs</a> — building experimental AI and data-driven solutions
+<p align="left">
+ ➡ Artificial Intelligence Engineering Student at Institut Teknologi Sepuluh Nopember (Indonesia) <br>
+ ➡ Focused on building practical and intelligent systems <br>
+ ➡ Currently focusing in Natural Language Processing and Retrieval-Augmented Generation <br>
+ ➡ Passionate about research-driven development and data intelligence <br>
+ ➡ Creating  <a href="https://asymptra.com">Asymptra Labs</a> as a space for building experimental AI/Software or anything else that can be used for everyone
 </p>
 
 ---
