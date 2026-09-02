@@ -1,5 +1,5 @@
 
-![Header](./Assets/banner.png)
+![Header](./Assets/newbanner.png)
 
 <h1 align="left">Little Things About Me</h1>
 
