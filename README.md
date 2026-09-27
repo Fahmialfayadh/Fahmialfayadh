@@ -34,7 +34,7 @@
 ### 🧰 Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn, js" />
   </a>
 </p>
 ---
