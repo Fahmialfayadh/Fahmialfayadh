@@ -39,8 +39,24 @@
 
 ---
 
-### 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Fahmialfayadh&custom_title=My%20Github%20Stats&include_all_commits=true&show_icons=true&hide_rank=True&rank_icon=default&theme=swift&hide_border=true&card_width=400"
+        alt="My GitHub Stats"
+        width="400"
+      />
+    </td>
+    <td valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fahmialfayadh&layout=pie&langs_count=8&theme=swift&hide_border=true&card_width=400"
+        alt="Top Languages"
+        width="400"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=fahmialfayadh&show_icons=true&hide_rank=True&hide=contribs&theme=tokyonight&hide_border=true" />
-</p>
+
+
