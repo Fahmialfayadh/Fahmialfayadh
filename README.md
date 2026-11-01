@@ -13,10 +13,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/fahmialfayadh"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://linkedin.com/in/fahmialfayadh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://fahmialfayadh.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="https://asymptra.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/fahmialfayadh"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/fahmialfayadh"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://fahmialfayadh.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+  <a href="https://github.com/fahmialfayadh"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,js,flask,sqlite,git,linux,pytorch,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=py,rust,js,flask,sqlite,git,linux,pytorch,sklearn,pandas,numpy" alt="Tech Stack" />
 </p>
 
 | Domain | Focus |
@@ -50,13 +50,10 @@
     </td>
     <td valign="top">
       <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fahmialfayadh&layout=pie&langs_count=8&theme=swift&hide_border=true&card_width=400"
+        src="https://wakatime.com/share/@d5dc60ca-1de7-4689-9193-5d2c7c5c586a/8fa73f02-e86a-45fb-88c9-dc49cec8a0c8.svg"
         alt="Top Languages"
         width="400"
       />
     </td>
   </tr>
 </table>
-
-
-
