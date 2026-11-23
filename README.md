@@ -62,5 +62,10 @@
 
 ### AI-Assisted Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img
+    src="./Assets/ai-coding.svg"
+    alt="AI Coding Percentage"
+    width="400"
+  />
+</p>
