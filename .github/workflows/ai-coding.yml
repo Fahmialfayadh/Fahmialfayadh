@@ -30,7 +30,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add Assets/ai-coding.svg
+          git add Assets/ai-coding.svg README.md
 
           if ! git diff --cached --quiet; then
             git commit -m "Update AI coding chart"
