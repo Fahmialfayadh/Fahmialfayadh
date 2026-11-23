@@ -17,20 +17,29 @@ request = urllib.request.Request(
 
 with urllib.request.urlopen(request, timeout=30) as response:
     data = json.load(response)["data"]
+# AI-generated line changes
+ai_lines = data.get("ai_line_changes_total")
 
-category = next(
-    (
-        item for item in data["categories"]
-        if item["name"].lower() == "ai coding"
-    ),
-    None,
+if ai_lines is None:
+    ai_lines = (
+        data.get("ai_additions", 0)
+        + data.get("ai_deletions", 0)
+    )
+
+# Human-written line changes
+human_lines = (
+    data.get("human_additions", 0)
+    + data.get("human_deletions", 0)
 )
 
-if category is None:
-    raise RuntimeError("AI Coding category not found in WakaTime stats")
+# AI-driven percentage
+total_lines = ai_lines + human_lines
 
-percentage = float(category["percent"])
-percentage = max(0.0, min(100.0, percentage))
+percentage = (
+    round(ai_lines / total_lines * 100, 2)
+    if total_lines > 0
+    else 0.0
+)
 
 circumference = 2 * 3.141592653589793 * 65
 progress = circumference * percentage / 100
