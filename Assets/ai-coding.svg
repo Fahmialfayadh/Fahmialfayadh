@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400" height="220" viewBox="0 0 400 220">
+  <rect width="400" height="220" rx="12" fill="#ffffff"/>
+
+  <text x="200" y="30"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="17" font-weight="600"
+        fill="#24292f">
+    AI Coding
+  </text>
+
+  <circle cx="200" cy="119" r="65"
+          fill="none" stroke="#e1e4e8" stroke-width="13"/>
+
+  <circle cx="200" cy="119" r="65"
+          fill="none" stroke="#3985d6" stroke-width="13"
+          stroke-dasharray="274.45 408.41"
+          stroke-linecap="round"
+          transform="rotate(-90 200 119)"/>
+
+  <text x="200" y="125"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="30" font-weight="700"
+        fill="#24292f">
+    67.20%
+  </text>
+
+  <text x="200" y="145"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        fill="#6e7781">
+    AI-assisted coding
+  </text>
+
+  <text x="200" y="211"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        fill="#6e7781">
+    Last 7 Days
+  </text>
+</svg>
