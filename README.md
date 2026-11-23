@@ -6,11 +6,11 @@
 ➡ Focused on building practical and intelligent systems  
 ➡ Currently focusing on Natural Language Processing and Retrieval-Augmented Generation  
 
-🌍 **Personal Web:** [fahmialfayadh.site](https://fahmialfayadh.site)
+**Personal Web:** [fahmialfayadh.site](https://fahmialfayadh.site)
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/fahmialfayadh"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,rust,js,flask,sqlite,git,linux,pytorch,sklearn,pandas,numpy" alt="Tech Stack" />
