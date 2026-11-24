@@ -1,4 +1,4 @@
-<!--![Header](./Assets/terbaru.png)-->
+![Header](./Assets/baner.gif)
 
 <h1 align="left">Little Things About Me</h1>
 
@@ -8,7 +8,7 @@
 
 **Personal Web:** [fahmialfayadh.site](https://fahmialfayadh.site)
 
----
+---animatr
 
 ### Connect With Me
 
