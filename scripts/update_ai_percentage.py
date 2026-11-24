@@ -116,7 +116,7 @@ def generate_chart(percentage):
         font-size="17"
         font-weight="600"
         fill="{TEXT_COLOR}">
-    AI Coding
+    AI Coding (Wakatime Stats)
   </text>
 
   <circle cx="200" cy="119" r="65"
