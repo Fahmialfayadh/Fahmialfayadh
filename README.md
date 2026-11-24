@@ -63,7 +63,7 @@
 
 <p align="center">
   <img
-    src="./Assets/ai-coding.svg?v=1795486162761026953"
+    src="./Assets/ai-coding.svg?v=1795489863491755683"
     alt="AI Coding Percentage"
     width="400"
   />
