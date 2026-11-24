@@ -34,7 +34,7 @@
 | **ML Engineering** | Feature engineering, AutoML, hyperparameter optimization, model interpretability, imbalanced learning. **Optuna**, **SHAP**, **AutoGluon** |
 | **NLP & RAG** | Transformer models, embeddings, semantic search, retrieval pipelines. **Hugging Face**, **LangChain**, **Qdrant**, **FAISS** |
 | **Data & Visualization** | Data processing, scientific computing, exploratory analysis. **Polars**, **Pandas**, **NumPy**, **SciPy**, **Plotly** |
-| **Security** | Applied cryptography and data security (symmetric ciphers) |
+| **Security** | Applied cryptography and data security|
 
 ---
 
