@@ -1,5 +1,8 @@
-![Header](./Assets/baner.gif)
-
+<div align = 'center'>
+  
+![Header](./Assets/banner.gif)
+  
+</div>
 <h1 align="left">Little Things About Me</h1>
 
 ➡ Artificial Intelligence Engineering Student at Institut Teknologi Sepuluh Nopember (Indonesia)  
