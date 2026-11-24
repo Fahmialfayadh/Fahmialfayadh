@@ -36,10 +36,10 @@ class FahmiAlfayadh(nn.Module):
             domains=["Artifical Intelegence", "Applied Math", "Astronomy", "Anthropology", "History"],
         )
 
-    def forward(self, curiosity, brain_energy: int = 100):
+    def forward(self, curiosity, brain_energy: int = 1000):
            query = curiosity
 
-           while brain_energy > 0:
+           while brain_energy > 0 :
                evidence = self.search(query)
                insight = self.critic(evidence)
                self.knowledge.add(insight)
@@ -48,7 +48,7 @@ class FahmiAlfayadh(nn.Module):
                    break
 
                query = insight.follow_up
-               brain_energy -= 1
+               brain_energy -= query.complexity
 
            if insight.buildable:
                return self.builder(insight)
