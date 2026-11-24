@@ -23,6 +23,40 @@
 
 ---
 
+```python
+import torch.nn as nn
+
+class FahmiAlfayadh(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.search = Search()
+        self.critic = Critic()
+        self.builder = Builder()
+        self.knowledge = Knowledge(
+            domains=["Artifical Intelegence", "Applied Math", "Astronomy", "Anthropology", "History"],
+        )
+
+    def forward(self, curiosity, brain_energy: int = 1000):
+           query = curiosity
+
+           while brain_energy > 0:
+               evidence = self.search(query)
+               insight = self.critic(evidence)
+               self.knowledge.add(insight)
+
+               if not insight.follow_up:
+                   break
+
+               query = insight.follow_up
+               brain_energy -= 1
+
+           if insight.buildable:
+               return self.builder(insight)
+
+           return insight
+
+```
+
 ### Tech Stack
 
 <p align="center">
