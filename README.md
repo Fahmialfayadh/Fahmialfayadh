@@ -18,8 +18,7 @@
 <p align="center">
   <a href="https://instagram.com/fahmialfayadh"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/fahmialfayadh"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://fahmialfayadh.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
-  <a href="https://github.com/fahmialfayadh"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/fahmialfayadh"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" height="48" alt="Kaggle" /></a>
 </p>
 
 ---
