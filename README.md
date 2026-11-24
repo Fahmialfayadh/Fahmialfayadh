@@ -36,7 +36,7 @@ class FahmiAlfayadh(nn.Module):
             domains=["Artifical Intelegence", "Applied Math", "Astronomy", "Anthropology", "History"],
         )
 
-    def forward(self, curiosity, brain_energy: int = 1000):
+    def forward(self, curiosity, brain_energy: int = 100):
            query = curiosity
 
            while brain_energy > 0:
