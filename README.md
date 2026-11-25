@@ -37,23 +37,24 @@ class FahmiAlfayadh(nn.Module):
         )
 
     def forward(self, curiosity, brain_energy: int = 1000):
-           query = curiosity
+         query = curiosity
+         insight = None
 
-           while brain_energy > 0 :
-               evidence = self.search(query)
-               insight = self.critic(evidence)
-               self.knowledge.add(insight)
+         while brain_energy > 0 :
+             evidence = self.search(query)
+             insight = self.critic(evidence)
+             self.knowledge.add(insight)
 
-               if not insight.follow_up:
-                   break
+             if not insight.follow_up:
+                 break
 
-               query = insight.follow_up
-               brain_energy -= query.complexity
+             query = insight.follow_up
+             brain_energy -= query.complexity
 
-           if insight.buildable:
-               return self.builder(insight)
+         if insight.buildable:
+             return self.builder(insight)
 
-           return insight
+         return insight
 
 ```
 
