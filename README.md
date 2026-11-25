@@ -35,6 +35,7 @@ class FahmiAlfayadh(nn.Module):
         self.knowledge = Knowledge(
             domains=[
                 "Artificial Intelligence",
+                "NeuroScience"
                 "Applied Math",
                 "Astronomy",
                 "Anthropology",
