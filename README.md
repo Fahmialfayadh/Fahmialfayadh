@@ -106,7 +106,7 @@ class FahmiAlfayadh(nn.Module):
 
 <p align="center">
   <img
-    src="./Assets/ai-coding.svg?v=1795569401220102579"
+    src="./Assets/ai-coding.svg?v=1795654302757956325"
     alt="AI Coding Percentage"
     width="400"
   />
