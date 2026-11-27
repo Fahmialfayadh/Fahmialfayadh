@@ -74,6 +74,7 @@ class FahmiAlfayadh(nn.Module):
 |---|---|
 | **Machine Learning** | Classical supervised & unsupervised learning, statistical & probabilistic modeling, ensembles & gradient boosting, tabular deep learning, anomaly detection, dimensionality reduction. Mainly **scikit-learn**, **XGBoost / LightGBM / CatBoost**, **PyTorch** |
 | **Deep Learning** |Multilayer Perceptron (MLP), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Graph Neural Network (GNN) and Vision Transformers (ViT) built with **PyTorch** |
+| **Reinforcement Learning** | Policy optimization and reward-based learning. PPO (Proximal Policy Optimization) |
 | **ML Engineering** | Feature engineering, AutoML, hyperparameter optimization, model interpretability, imbalanced learning. **Optuna**, **SHAP**, **AutoGluon** |
 | **NLP & RAG** | Transformer models, embeddings, semantic search, retrieval pipelines. **Hugging Face**, **LangChain**, **Qdrant**, **FAISS** |
 | **Data & Visualization** | Data processing, scientific computing, exploratory analysis. **Polars**, **Pandas**, **NumPy**, **SciPy**, **Plotly** |
