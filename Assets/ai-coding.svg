@@ -22,7 +22,7 @@
           fill="none"
           stroke="#3985d6"
           stroke-width="13"
-          stroke-dasharray="36.39 408.41"
+          stroke-dasharray="14.29 408.41"
           stroke-linecap="round"
           transform="rotate(-90 200 119)"/>
 
@@ -32,7 +32,7 @@
         font-size="30"
         font-weight="700"
         fill="#24292f">
-    8.91%
+    3.50%
   </text>
 
   <text x="200" y="145"
